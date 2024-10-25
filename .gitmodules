@@ -1,6 +1,0 @@
-[submodule "Simple-passgenerator"]
-	path = Simple-passgenerator
-	url = https://github.com/daniache/simple-password-generator.git
-[submodule "ceaser-cipher"]
-	path = ceaser-cipher
-	url = https://github.com/daniache/caesar-cipher.git
