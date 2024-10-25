@@ -1,0 +1,3 @@
+[submodule "Simple-passgenerator"]
+	path = Simple-passgenerator
+	url = https://github.com/daniache/simple-password-generator.git
