@@ -30,7 +30,7 @@ HOW TO INVOKE THE APPLICATION
 1. Run the code in a Python environment:
 
     - Open a terminal or IDE (such as VS Code or PyCharm).
-    - Copy and paste the code into a Python file OR download it from the folder ""
+    - Copy and paste the code into a Python file OR download it from the folder "ceaser-cipher"
     - Run the file using the command: python name_of_the_file.py
 
    If you are using an IDE, simply open it within the IDE through the File Menu.
